@@ -1,0 +1,15 @@
+
+public class DontCallMe{
+
+	public static void main(String[] args){
+		System.out.println("Hi, im 30years old streamer");
+		System.out.println("Pls, Like and Comment,Bbakk! Bbakk!");
+		System.out.println("Don't call me, Don't call me");
+		System.out.println("Spring is Coming, Anyway");
+		System.out.println("Flex, i'm super flex, You know ma class, ye ye");
+		System.out.println("Don't call me if you Broke");
+		
+	}
+
+
+}
